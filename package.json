@@ -1,0 +1,36 @@
+{
+  "name": "static-site-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate opinionated foundation for creating static site.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh:///github.com/simonsayscode/static-site-boilerplate.git"
+  },
+  "author": "Simon Tam",
+  "license": "MIT",
+  "homepage": "https://github.com/simonsayscode/static-site-boilerplate",
+  "devDependencies": {
+    "babel-preset-babili": "0.0.8",
+    "babel-preset-es2015": "^6.18.0",
+    "browser-sync": "^2.17.5",
+    "cssnano": "^3.8.0",
+    "del": "^2.2.2",
+    "eslint": "^3.9.1",
+    "eslint-config-airbnb-base": "^9.0.0",
+    "eslint-plugin-import": "^2.1.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.2.0",
+    "run-sequence": "^1.2.2",
+    "autoprefixer": "^6.5.2",
+    "gulp-postcss": "^6.2.0"
+  }
+}
